@@ -1,0 +1,54 @@
+{
+    "events":[
+        {
+        "id": 1,
+        "title": "Meet And Grill",
+        "date":"12 Dec 2021",
+        "time": "1339Hrs",
+        "location": "Carnivore",
+        "description": "This is the meet up for the single buddies in  kenya and from all the walks in lkife",
+        "organizers": "Maich Blaqs Entertaiment",
+        "categories": "Dating",
+        "attendees":[
+            {"id": 20, "name": "Teacher Wanjiku"},
+            {"id": 21, "name": "aditcher Wanji"},
+            {"id": 22, "name": "Rachier Wanjigi"},
+            {"id": 23, "name": "Esther Manjiku"},
+            {"id": 24, "name": "Mwalimu King'ang'i"},
+            {"id": 25, "name": "JB Masanduku"},
+            {"id": 26, "name": "Maina Kageni"},
+            {"id": 27, "name": "Cecilia Quoco"}
+        
+        ]
+    },
+    {
+        "id": 2,
+        "title": "America Got Talent",
+        "date":"10 Nov 2021",
+        "time": "1100Hrs",
+        "location": "West Maddy",
+        "description": "This is kenya and from all the walks in lkife the meet up for the single buddies in  ",
+        "organizers": "Mo Sounds",
+        "categories": "Performance",
+        "attendees":[
+            {"id": 28, "name": "Teacher Wanjiku"},
+            {"id": 29, "name": "aditcher Wanji"},
+            {"id": 30, "name": "Rachier Wanjigi"},
+            {"id": 31, "name": "Esther Manjiku"},
+            {"id": 32, "name": "Mwalimu King'ang'i"},
+            {"id": 33, "name": "JB Masanduku"},
+            {"id": 34, "name": "Maina Kageni"},
+            {"id": 35, "name": "Cecilia Quoco"},
+            {"id": 36, "name": "Maina Kimanin"},
+            {"id": 37, "name": "Cecilia Mwqangi"}
+        
+        ]
+    }
+
+
+
+
+
+
+    ]
+}
